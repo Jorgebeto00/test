@@ -1,0 +1,31 @@
+<div class="postcard">
+            <!--heading-->
+            <div class="heading">
+                <div id="title">
+                    <h1>My Postcard</h1>
+                </div>
+                <div class="icon">
+                    <img id="img" src="http://assets.breatheco.de/apis/img/icon/4geeks.png">
+                </div>
+            </div>
+
+            <!--mainbody-->
+            <div>
+                <div>
+                    <p>Look how awesome! This is a postcard that I created using HTML5 and CSS3 during my 4GeeksAcademy Course!</p>
+
+                    <p>This is so cool, can't wait to start doing more stuff!</p>
+                </div>
+                <div>
+
+                </div>
+            </div>
+            <div>
+
+            </div>
+
+
+            <div>
+            <a href="#">Send my postcard</a>
+            </div>
+        </div>
